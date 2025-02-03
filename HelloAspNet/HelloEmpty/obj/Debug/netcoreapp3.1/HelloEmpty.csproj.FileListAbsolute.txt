@@ -22,15 +22,6 @@ C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debu
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.dll
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.pdb
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.genruntimeconfig.cache
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorAssemblyInfo.cache
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorAssemblyInfo.cs
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\bin\Debug\netcoreapp3.1\HelloEmpty.Views.dll
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\bin\Debug\netcoreapp3.1\HelloEmpty.Views.pdb
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.TagHelpers.input.cache
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.TagHelpers.output.cache
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorCoreGenerate.cache
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorTargetAssemblyInfo.cs
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.Views.pdb
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.csproj.Up2Date
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
