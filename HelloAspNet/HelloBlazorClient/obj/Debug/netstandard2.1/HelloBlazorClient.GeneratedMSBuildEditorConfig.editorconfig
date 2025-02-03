@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = HelloBlazorClient
+build_property.ProjectDir = C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\HelloAspNet\HelloBlazorClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
