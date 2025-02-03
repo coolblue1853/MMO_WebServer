@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HelloEmpty")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d87468e0f85e78ff90ee1f49fc45df06ba24cca4")]
-[assembly: System.Reflection.AssemblyProductAttribute("HelloEmpty")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HelloEmpty")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.RelatedAssemblyAttribute("HelloEmpty.Views")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
 
