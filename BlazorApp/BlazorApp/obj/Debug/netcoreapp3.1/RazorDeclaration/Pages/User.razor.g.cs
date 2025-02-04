@@ -94,24 +94,24 @@ using BlazorApp.Shared
         }
         #pragma warning restore 1998
 #nullable restore
-#line 31 "C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\Pages\User.razor"
+#line 32 "C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\Pages\User.razor"
        
 	List<UserData> _users = new List<UserData>();
 	string _inputName;
 
-	protected override void OnInitialized()
-	{
-		_users.Add(new UserData() { Name = "A" });
-		_users.Add(new UserData() { Name = "B" });
-		_users.Add(new UserData() { Name = "C" });
-	}
+	ShowUser _showUser;
+
+
 	void AddUser(){
-		_users.Add(new UserData() { Name = _inputName });
-		_inputName = "";
+		_showUser.AddUser(new UserData() { Name = _inputName });
+			_inputName = "";
 	}
 	void KickUser(UserData user)
 	{
 		_users.Remove(user);
+	}
+	void CallbackTestFunc(){
+
 	}
 
 #line default

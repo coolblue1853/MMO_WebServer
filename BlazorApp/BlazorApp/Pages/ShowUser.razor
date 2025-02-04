@@ -1,0 +1,41 @@
+﻿@using BlazorApp.Data;
+
+
+
+
+<p>
+	User : <b>@Users.Count()</b>
+</p>
+<br />
+<ul class="list-group">
+	@foreach (UserData user in Users)
+	{
+		<li @key="user" class="list-group-item">
+			<button type="button" class=" btn btn-link" @onclick="() => KickUser(user)"></button> 
+			<label>@user.Name</label>
+		</li>
+	}
+</ul>
+
+@code{
+	[Parameter]
+	public List<UserData> Users { get; set; }
+
+	[Parameter]
+	public Action CallbackTest { get; set; }
+	protected override void OnInitialized()
+	{
+		Users.Add(new UserData() { Name = "A" });
+		Users.Add(new UserData() { Name = "B" });
+		Users.Add(new UserData() { Name = "C" });
+	}
+	public void AddUser(UserData user)
+	{
+		Users.Add(user);
+	}
+	void KickUser(UserData user)
+	{
+		Users.Remove(user);
+		CallbackTest.Invoke();
+	}
+}

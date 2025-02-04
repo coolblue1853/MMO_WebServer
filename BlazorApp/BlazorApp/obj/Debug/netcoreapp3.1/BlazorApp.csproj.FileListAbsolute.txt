@@ -57,3 +57,5 @@ C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\obj\Debug\n
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.csproj.Up2Date
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\User.razor.g.cs
 C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Razor\Pages\User.razor.g.cs
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ShowUser.razor.g.cs
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Razor\Pages\ShowUser.razor.g.cs
