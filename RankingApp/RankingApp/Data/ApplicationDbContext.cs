@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using RankingApp.Data.Models;
-
+using SharedData.Models;
 namespace RankingApp.Data
 {
 	public class ApplicationDbContext : IdentityDbContext

@@ -211,3 +211,5 @@ C:\Users\Coolblue\Downloads\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\Rankin
 C:\Users\Coolblue\Downloads\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\RankingApp.dll
 C:\Users\Coolblue\Downloads\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\RankingApp.pdb
 C:\Users\Coolblue\Downloads\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\RankingApp.genruntimeconfig.cache
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\RankingApp\bin\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\RankingApp\bin\Debug\netcoreapp3.1\SharedData.pdb
