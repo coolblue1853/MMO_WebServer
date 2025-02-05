@@ -12,11 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-RankingApp-51b9f2b0-4d8d-414f-9361-fa5511ad5120")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-RankingApp-D8102234-2D5F-4949-9F21-7B51CB631B4E")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RankingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ccf066bcd396c453f27796513d14b2ec8d95d20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc3138c013fd58da841a355e2264c087b2a27865")]
 [assembly: System.Reflection.AssemblyProductAttribute("RankingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RankingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

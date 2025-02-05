@@ -78,7 +78,7 @@ using RankingApp.Shared
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\RankingApp\Shared\NavMenu.razor"
+#line 23 "C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\RankingApp\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

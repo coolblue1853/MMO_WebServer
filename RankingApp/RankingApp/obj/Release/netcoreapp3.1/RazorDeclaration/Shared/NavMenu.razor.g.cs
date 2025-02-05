@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace RankingApp.Pages
+namespace RankingApp.Shared
 {
     #line default
     using global::System;
@@ -68,18 +68,8 @@ using RankingApp.Shared
 #line hidden
 #nullable disable
     ;
-    [global::Microsoft.AspNetCore.Components.RouteAttribute(
-    // language=Route,Component
-#nullable restore
-#line 1 "C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\RankingApp\Pages\Counter.razor"
-      "/counter"
-
-#line default
-#line hidden
-#nullable disable
-    )]
     #nullable restore
-    public partial class Counter : global::Microsoft.AspNetCore.Components.ComponentBase
+    public partial class NavMenu : global::Microsoft.AspNetCore.Components.ComponentBase
     #nullable disable
     {
         #pragma warning disable 1998
@@ -88,13 +78,15 @@ using RankingApp.Shared
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\RankingApp\Pages\Counter.razor"
+#line 23 "C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\RankingApp\Shared\NavMenu.razor"
        
-    private int currentCount = 0;
+    private bool collapseNavMenu = true;
 
-    private void IncrementCount()
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
     {
-        currentCount++;
+        collapseNavMenu = !collapseNavMenu;
     }
 
 #line default

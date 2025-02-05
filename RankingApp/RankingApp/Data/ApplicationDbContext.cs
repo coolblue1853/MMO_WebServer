@@ -7,12 +7,13 @@ using RankingApp.Data.Models;
 
 namespace RankingApp.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
-    {
-        public DbSet<GameResult> GameResults { get; set; }
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-            : base(options)
-        {
-        }
-    }
+	public class ApplicationDbContext : IdentityDbContext
+	{
+		public DbSet<GameResult> GameResults { get; set; }
+
+		public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+			: base(options)
+		{
+		}
+	}
 }
