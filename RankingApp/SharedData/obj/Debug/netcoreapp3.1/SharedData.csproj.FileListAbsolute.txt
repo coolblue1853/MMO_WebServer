@@ -1,0 +1,28 @@
+C:\Users\rooki\source\repos\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.deps.json
+C:\Users\rooki\source\repos\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\rooki\source\repos\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.pdb
+C:\Users\rooki\source\repos\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.csprojAssemblyReference.cache
+C:\Users\rooki\source\repos\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfoInputs.cache
+C:\Users\rooki\source\repos\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfo.cs
+C:\Users\rooki\source\repos\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\rooki\source\repos\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\rooki\source\repos\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.pdb
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.deps.json
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.pdb
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.csprojAssemblyReference.cache
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfoInputs.cache
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfo.cs
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\rooki\OneDrive\바탕 화면\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.pdb
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.deps.json
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.pdb
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfoInputs.cache
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfo.cs
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.sourcelink.json
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.dll
+C:\Users\Coolblue\Documents\GitHub\MMO_WebServer\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.pdb
